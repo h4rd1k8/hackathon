@@ -1,0 +1,17 @@
+388749929 | Category1 || Location6
+388749929 | Category1 || Location2Location1офмгел что лиLocation6Location1Location3Location5шяеLocation1
+388749929 | Category1 || Location2
+388749929 | Category3 || Location2
+388749929 | Category3 || Location5
+388749929 | Category5 || Location6
+388749929 | Category1 || Location3
+388749929 | Category1 || /start/start/start
+388749929 | /start || 
+388749929 | /start || 
+388749929 | /start || 
+388749929 | Category2 || 
+388749929 || Category1 || Location1
+
+388749929 || Category2 || Location5 || somethingdsadas/category
+366006456 || Category1 || Location1 || privet
+Category5
