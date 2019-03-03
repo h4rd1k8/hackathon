@@ -1,1 +1,1 @@
-HELLO = "Привет, я бот от Alemresearch!"
+HELLO = "Hello this bot here to accept your report"
